@@ -13,16 +13,7 @@ The `code` folder contains all the source code for the project. Key scripts incl
 - `models.py`: Handles data acquisition, data cleaning, and model implementation in class structures.
 - `visualizations.py`: Creates visualizations of learned and tested data.
 
-### 2. Files
-
-The `files` folder stores necessary datasets and other input files. Key file folders include:
-
-- `raw_data`: Raw and cleaned datasets containing MLB pitcher metrics.
-- `pitch_grades`: Datasets containing cleaned data with predicted pitch grades.
-- `usage_effectiveness`: Datasets containing cleaned data with predicted pitch grades and usage scores.
-- `optimized_arsenals`: Datasets containing cleaned data with predicted pitch grades and usage scores for the maximized version of each pitch.
-
-### 3. Graphs
+### 2. Graphs
 
 The `graphs` folder holds visualizations and graphs generated during the training process and analysis. Key plot folders include:
 
@@ -30,7 +21,7 @@ The `graphs` folder holds visualizations and graphs generated during the trainin
 - `pitch_grade_feature_importance`: Visualization of the most important features identified by the XGBoost model for Stuff, Location, and Pitching grades.
 - `pitch_type_effectiveness`: Graphs depicting the effectiveness of pitches when throw at different usage thresholds.
 
-### 4. Models
+### 3. Models
 
 The `models` folder stores trained models and model-related files. Key model folders include:
 
