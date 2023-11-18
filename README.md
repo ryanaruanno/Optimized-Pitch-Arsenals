@@ -8,7 +8,7 @@ This project aims to optimize MLB pitcher arsenals by implementing Stuff+, Locat
 
 Currently, the project is focused on:
 
-- **Model Training:** Implementing and fine-tuning the XGBoost model for pitch grades: retraining pitch grade models after switching from "gpu_hist" tree method to "exact" due to better predictive power on next season ERA. Also added test esting RMSE to the feature importance graphs.
+- **Model Training:** Implementing and fine-tuning the XGBoost model for pitch grades: retraining pitch grade models after removing poor contact due to better predictive power on next season ERA.
 
 ## Next Steps
 
