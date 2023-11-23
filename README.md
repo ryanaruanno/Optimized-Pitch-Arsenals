@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to optimize MLB pitcher arsenals by implementing Stuff+, Location+, and Pitching+ using XGBoost. The goal is to optimize and identify pitch metrics that contribute to swinging strikes and called strikes.
+This project aims to optimize MLB pitcher arsenals by implementing Stuff+, Location+, and Pitching+ using XGBoost. The goal is to optimize and identify pitch metrics that contribute to swinging strikes, called strikes, and barrels.
 
 ## Current Work
 
