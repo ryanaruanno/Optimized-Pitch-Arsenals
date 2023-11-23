@@ -8,7 +8,7 @@ This project aims to optimize MLB pitcher arsenals by implementing Stuff+, Locat
 
 Currently, the project is focused on:
 
-- **Model Training:** Implementing and fine-tuning the XGBoost model for pitch grades: retraining individual models for called strikes, swinging strikes, and poor contact.
+- **Model Training:** Implementing and fine-tuning the XGBoost model for pitch grades: retraining after converting poor contact to barrels, reworking approach angles, and updating the code to account for the newly separated models. 
 
 ## Next Steps
 
