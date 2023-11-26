@@ -4,6 +4,10 @@
 
 This project aims to optimize MLB pitcher arsenals by implementing Stuff+, Location+, and Pitching+ using XGBoost. The goal is to optimize and identify pitch metrics that contribute to different events.
 
+Feel free to explore the code, data files, and visualizations in the respective folders to gain insights into the project's progress and outcomes.
+
+**Note:** This README will be periodically updated to reflect the latest developments in the project.
+
 ## Current Work
 
 Currently, the project is focused on:
@@ -15,10 +19,6 @@ Currently, the project is focused on:
 In the upcoming stages, the project will address the following tasks:
 
 - **Model Analysis:** Finding the correlation of past-year pitch grades and next-year ERA.
-
-Feel free to explore the code, data files, and visualizations in the respective folders to gain insights into the project's progress and outcomes.
-
-**Note:** This README will be periodically updated to reflect the latest developments in the project.
 
 ## Project Structure
 
