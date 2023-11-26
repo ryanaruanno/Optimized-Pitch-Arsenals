@@ -2,13 +2,13 @@
 
 ## Overview
 
-This project aims to optimize MLB pitcher arsenals by implementing Stuff+, Location+, and Pitching+ using XGBoost. The goal is to optimize and identify pitch metrics that contribute to swinging strikes, called strikes, barrels, and balls.
+This project aims to optimize MLB pitcher arsenals by implementing Stuff+, Location+, and Pitching+ using XGBoost. The goal is to optimize and identify pitch metrics that contribute to different events.
 
 ## Current Work
 
 Currently, the project is focused on:
 
-- **Model Training:** Implementing and fine-tuning the XGBoost model for pitch grades: retraining after adding balls to the training after noticing improvement in correlation to future ERA upon switching from predicting poor contact to barrels.
+- **Model Training:** Implementing and fine-tuning the XGBoost model for pitch grades: retraining after adding HBP, non-barreled batted balls, and foul balls to the training. Also added delta run expectancy of each event for evaluation.
 
 ## Next Steps
 
