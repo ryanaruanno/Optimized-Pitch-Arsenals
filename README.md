@@ -12,13 +12,13 @@ Feel free to explore the code, data files, and visualizations in the respective 
 
 Currently, the project is focused on:
 
-- **Model Training:** Implementing and fine-tuning the XGBoost model for pitch grades: retraining after adding HBP, non-barreled batted balls, and foul balls to the training. Also added delta run expectancy of each event for evaluation.
+- **Model Training:** Implementing and fine-tuning the XGBoost model for pitch grades: finished training for 2022. Converting regressed events into expected run values.
 
 ## Next Steps
 
 In the upcoming stages, the project will address the following tasks:
 
-- **Model Analysis:** Finding the correlation of past-year pitch grades and next-year ERA.
+- **Model Training:** Training the pitch type effectiveness models after the 2023 and 2022-2023 pitch grade models finish training.
 
 ## Project Structure
 
