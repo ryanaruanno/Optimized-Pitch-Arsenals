@@ -12,7 +12,7 @@ Feel free to explore the code, data files, and visualizations in the respective 
 
 Currently, the project is focused on:
 
-- **Model Training:** Implementing and fine-tuning the XGBoost model for pitch grades: finished training for 2022. Converting regressed events into expected run values.
+- **Model Training:** Implementing and fine-tuning the XGBoost model for pitch grades: retraining after tweaking approach angles again. Changed the calculations for Stuff+/Location+/Pitching+.
 
 ## Next Steps
 
