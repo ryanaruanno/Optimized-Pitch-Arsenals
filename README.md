@@ -35,9 +35,11 @@ The `graphs` folder holds visualizations and graphs generated during the trainin
 
 - `correlations`: Correlation graphs for data visualizations.
 - `pitch_grade_feature_importance`: Visualization of the most important features identified by the XGBoost model for Stuff, Location, and Pitching grades.
+- `run_value_feature_importance`: Visualization of the most important features identified by the XGBoost model for Stuff, Location, and Pitching run value grades.
 
 ### 3. Models
 
 The `models` folder stores trained models and model-related files. Key model folders include:
 
 - `pitch_grade_models`: Folder containing text files of the Stuff, Location, and Pitching XGBoost models.
+- `run_value_models`: Folder containing text files of the Stuff, Location, and Pitching run value XGBoost models.
