@@ -33,13 +33,11 @@ The `code` folder contains all the source code for the project. Key scripts incl
 
 The `graphs` folder holds visualizations and graphs generated during the training process and analysis. Key plot folders include:
 
-- `correlation_matrices`: Correlation matrices of all the features in the cleaned datasets.
+- `correlations`: Correlation graphs for data visualizations.
 - `pitch_grade_feature_importance`: Visualization of the most important features identified by the XGBoost model for Stuff, Location, and Pitching grades.
-- `pitch_type_effectiveness`: Graphs depicting the effectiveness of pitches when throw at different usage thresholds.
 
 ### 3. Models
 
 The `models` folder stores trained models and model-related files. Key model folders include:
 
 - `pitch_grade_models`: Folder containing text files of the Stuff, Location, and Pitching XGBoost models.
-- `pitch_effectiveness_models`: Folder containing text files of the pitch and usage effectiveness XGBoost and Random Forest models.
