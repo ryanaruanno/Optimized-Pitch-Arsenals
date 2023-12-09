@@ -12,13 +12,13 @@ Feel free to explore the code, data files, and visualizations in the respective 
 
 Currently, the project is focused on:
 
-- **Model Training:** Implementing and fine-tuning the XGBoost model for pitch grades: retraining after tweaking approach angles again. Changed the calculations for Stuff+/Location+/Pitching+.
+- **Model Training:** Rethinking how to handle pitch type usage effectiveness.
 
 ## Next Steps
 
 In the upcoming stages, the project will address the following tasks:
 
-- **Model Training:** Training the pitch type effectiveness models after the 2023 and 2022-2023 pitch grade models finish training.
+- **Model Training:** Training the pitch type usage effectiveness models.
 
 ## Project Structure
 
