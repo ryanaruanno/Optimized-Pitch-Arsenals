@@ -12,13 +12,13 @@ Feel free to explore the code, data files, and visualizations in the respective 
 
 Currently, the project is focused on:
 
-- **Model Training:** Rethinking how to handle pitch type usage effectiveness.
+- **Model Training:** Rethinking how to handle pitch type usage effectiveness and arsenal optimization.
 
 ## Next Steps
 
 In the upcoming stages, the project will address the following tasks:
 
-- **Model Training:** Training the pitch type usage effectiveness models.
+- **Algorithm Running:** Running the optimizer on all data.
 
 ## Project Structure
 
