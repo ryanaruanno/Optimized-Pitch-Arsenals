@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to optimize MLB pitcher arsenals by implementing Stuff+, Location+, and Pitching+ using XGBoost. The goal is to optimize and identify pitch metrics that contribute to different events.
+This project aims to optimize MLB pitcher arsenals by implementing Stuff+, Location+, and Pitching+ using XGBoost. The goal is to optimize and identify pitch metrics that contribute to usage effectiveness.
 
 Feel free to explore the code, data files, and visualizations in the respective folders to gain insights into the project's progress and outcomes.
 
