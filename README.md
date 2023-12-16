@@ -12,7 +12,7 @@ Feel free to explore the code, data files, and visualizations in the respective 
 
 Currently, the project is focused on:
 
-- **Model Training:** Rethinking how to handle pitch type usage effectiveness and arsenal optimization.
+- **Model Training:** Retraining models after adding more features.
 
 ## Next Steps
 
