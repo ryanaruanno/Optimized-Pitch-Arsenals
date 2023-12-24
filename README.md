@@ -12,11 +12,11 @@ Feel free to explore the code, data files, and visualizations in the respective 
 
 Currently, the project is focused on:
 
-- **Model Training:** Retraining models after adding more features.
+- **GitHub Updating:** Updating the graphs and newly trained models after Christmas.
 
 ## Next Steps
 
-In the upcoming stages, the project will address the following tasks:
+In the upcoming stages, the project will address the following task:
 
 - **Algorithm Running:** Running the optimizer on all data.
 
