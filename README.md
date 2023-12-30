@@ -12,13 +12,13 @@ Feel free to explore the code, data files, and visualizations in the respective 
 
 Currently, the project is focused on:
 
-- **GitHub Updating:** Updating the graphs and newly trained models after Christmas.
+- **Model Training and Algorithm Running:** Added fastest pitch data to the pitch grade models, so will retrain and reoptimize the entirety of 2022-2023.
 
 ## Next Steps
 
 In the upcoming stages, the project will address the following task:
 
-- **Algorithm Running:** Running the optimizer on all data.
+- **Github Updating:** Updating Github with the new code, graphs, and models.
 
 ## Project Structure
 
